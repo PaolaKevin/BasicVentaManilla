@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Manillas Paulita</string>
+    <string name="cantidad">Cantidad de Manillas</string>
+    <string name="sel1">Seleccione Material</string>
+    <string name="sel2">Seleccione Tipo de Dije</string>
+    <string name="sel3">Seleccione Elemento</string>
+    <string name="btnText">Calcular</string>
+    <string name="errVacio">Ingrese Cantidad Mayor a 0</string>
+    <string name="errMayorCero">Ingrese Cantidad Mayor a O</string>
+    <string name="errSelOpcion">Debe Seleccionar una Opcion</string>
+    <string-array name="material">
+        <item>Seleccione Material</item>
+        <item>Cuero</item>
+        <item>Cuerda</item>
+    </string-array>
+    <string-array name="dije">
+        <item>Seleccione Dije</item>
+        <item>Martillo</item>
+        <item>Ancla</item>
+    </string-array>
+    <string-array name="tipo">
+        <item>Seleccione Tipo Elemento</item>
+        <item>Oro</item>
+        <item>Baño de  Oro</item>
+        <item>Oro Rosado</item>
+        <item>Plata</item>
+        <item>Niquel</item>
+    </string-array>
+</resources>

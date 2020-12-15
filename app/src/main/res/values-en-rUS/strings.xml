@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xierra</string>
+    <string name="cantidad">Quantity of Bracelet</string>
+    <string name="sel1">Select of Material</string>
+    <string name="sel2">Select Type of Dije</string>
+    <string name="sel3">Select Element</string>
+    <string name="btnText">Calculate</string>
+    <string name="errVacio">enter a larger amount</string>
+    <string name="errMayorCero">Enter Amount Greater than O</string>
+    <string name="errSelOpcion">You must select an option</string>
+</resources>
